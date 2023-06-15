@@ -1,4 +1,4 @@
 # ShopNest
-Developed shopNest, a simple e-commerce shopping web application using Java servlets, JSP, Oracle database and CSS.
- Implemented back-end using Java Servlets to handle requests and manage user sessions. 
- Utilized JSP to generate dynamic web pages. • Used Oracle Database to efficiently store and retrieve data for the application.
+shopNest is an e-commerce web application developed with Java servlets, JSP, Oracle database, HTML and  CSS. 
+It utilizes Java Servlets for back-end functionality, JSP for dynamic web pages, Oracle Database for efficient data storage, and retrieval, and implements secure authentication for user login.
+CSS is used for front-end styling.
