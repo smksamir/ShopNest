@@ -1,0 +1,60 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#FFC900;
+    font-family: 'Arial';
+    color:#FFFFFF;
+}
+a
+{
+    color: #FFFFFF;
+}
+
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #23463f;
+        border-radius: 15px ;
+
+}
+.register{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #23463f;
+        border-radius: 15px ;
+
+}
+h2{
+    text-align: center;
+    color: #000000;
+    padding: 20px;
+}
+label{
+    color: #FFFFFF;
+    font-size: 17px;
+}
+#textBox{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+
+#sub{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;
+
+
+}
